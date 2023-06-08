@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 103f3cff3124c3f409d3d50d7232d094, type: 3}
+  m_Name: UnityChan
+  m_EditorClassIdentifier: 
+  m_name: UnityChan
+  m_sprites:
+  - {fileID: 21300000, guid: 301d5a9b2747e1c4da3f244a3dc1debc, type: 3}
+  - {fileID: 21300000, guid: 634a472fee5b96e4b808454d9fb916c8, type: 3}
+  - {fileID: 21300000, guid: 6360f95097290c842a778ff3740715af, type: 3}
+  - {fileID: 21300000, guid: 73cbb8f7f7beb70459a8031704974252, type: 3}
+  - {fileID: 21300000, guid: 1dd0c10c729c36245a51789a6e12f281, type: 3}
+  - {fileID: 21300000, guid: e3531ec35c7ee11429e8666524b378b0, type: 3}
+  m_audioClips: []

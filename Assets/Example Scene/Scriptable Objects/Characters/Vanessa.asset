@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 103f3cff3124c3f409d3d50d7232d094, type: 3}
+  m_Name: Vanessa
+  m_EditorClassIdentifier: 
+  m_name: Vanessa
+  m_sprites:
+  - {fileID: 21300000, guid: 0f2bd585e44b6664b87b6b7b9ad015cd, type: 3}
+  - {fileID: 21300000, guid: 8ce99759b93fa4b47994fe4a250ec27c, type: 3}
+  - {fileID: 21300000, guid: 4941a3a0465638c418774468a7ad2d89, type: 3}
+  - {fileID: 21300000, guid: 84af6d5edf9508e40a3cf3ae4e0f6767, type: 3}
+  m_audioClips:
+  - {fileID: 8300000, guid: beb470beec4d10e47a54bbd56e9167ec, type: 3}
+  - {fileID: 8300000, guid: d689e1e402a72af498c1bdad6a3e3b42, type: 3}
+  - {fileID: 8300000, guid: f6c67d74ae87e6945a3b79d02253e913, type: 3}
+  - {fileID: 8300000, guid: a4d2bd0b15e50b147a4117dbd50080d5, type: 3}
